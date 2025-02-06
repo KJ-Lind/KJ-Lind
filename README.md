@@ -1,10 +1,3 @@
-- Hi, I’m Kaelin Lind
-- I’m interested in Gaming 🎮 and Anime 🎌
-- I’m currently learning Video Game Programming 🧑‍💻 
-- Pronouns: He/Him
-- Fun fact: I'm pretty good at FPS games 🔫, love drinking coffee ☕ and adore cats 🐈
-# Hello, I'm Kaelin 👋
-
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. Below you can find more about me and my work.
 
 ## About Me
